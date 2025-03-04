@@ -1,7 +1,7 @@
 〇〇〇〇〇〇〇〇〇
 
-おはようございます
+Good morning
 
-こんにちは
+Hello
 
-おやすみなさい
+Good evening
